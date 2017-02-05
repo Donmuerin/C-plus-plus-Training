@@ -26,7 +26,6 @@ public class MainProgram {
 			optionum = scan.nextInt();
 			scan.nextLine();
 		
-			//I used switch-case rather than nested-if as it's more convenient in this case
 			switch(optionum){
 
 				case 1: 
