@@ -1,2 +1,2 @@
-# C-plus-plus-Training
-Just some practices in C++
+# Training
+Just some practices in C++ and Java
