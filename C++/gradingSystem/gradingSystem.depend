@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486476113 source:c:\users\user\desktop\gradingsystem\main.cpp
+	<iomanip>
+	<iostream>
+
+1486569645 source:c:\users\user\desktop\git\training\c++\gradingsystem\main.cpp
+	<iomanip>
+	<iostream>
+
