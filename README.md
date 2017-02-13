@@ -1,2 +1,2 @@
 # Training
-Just some practices in C++ and Java
+Just some practices in C++, C and Java
