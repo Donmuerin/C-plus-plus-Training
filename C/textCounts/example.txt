@@ -1,0 +1,3 @@
+Hello, hello
+My favourite colour is Blue.
+Bye!
