@@ -53,7 +53,7 @@ int main()
     cout<<"Total withdrawal?: $";
     double withdrawal;
     cin >> withdrawal;
-    while (!cin || withdrawal < 0){
+    while (!cin || withdrawal < 0 || withdrawal > fBalance){
         cout << "Invalid input!";
         cin.clear();
         cin.ignore(256,'\n');
